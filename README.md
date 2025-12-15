@@ -6,8 +6,8 @@
 
 🔧 **Technologies I work with:**
 - **Node.js** 🟢
-- **Go** 🦫
-- **Rust** 🦀
+- **Java** 🦫
+- **C** 🦀
 
 🔥 **Obsessed with optimization**, always pushing the boundaries of speed and scalability.
 
@@ -19,8 +19,8 @@
 - Delivering solutions that scale 🚀
 
 ### 🛠️ **Currently Working On:**
-- Developing a high-performance npm package, **node-compute**, that integrates **Go** with **Node.js** for handling CPU-intensive tasks.
-- Architecting fast and scalable backend systems using **Go** and **Rust** for real-world applications.
+- Developing a high-performance npm package, **node-compute**, that integrates **C** with **Node.js** for handling CPU-intensive tasks.
+- Architecting fast and scalable backend systems using **C** and **Rust** for real-world applications.
 
 ---
 
