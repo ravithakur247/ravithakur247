@@ -19,8 +19,7 @@
 - Delivering solutions that scale 🚀
 
 ### 🛠️ **Currently Working On:**
-- Developing a high-performance npm package, **node-compute**, that integrates **C** with **Node.js** for handling CPU-intensive tasks.
-- Architecting fast and scalable backend systems using **C** and **Rust** for real-world applications.
+- Architecting fast and scalable backend systems using **C** for real-world applications.
 
 ---
 
