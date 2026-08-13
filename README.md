@@ -6,8 +6,8 @@
 
 🔧 **Technologies I work with:**
 - **Node.js** 🟢
-- **Java** 🦫
-- **C** 🦀
+- **Go** 🦫
+- **python** 🦀
 
 🔥 **Obsessed with optimization**, always pushing the boundaries of speed and scalability.
 
